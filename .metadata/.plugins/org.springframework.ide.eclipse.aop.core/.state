@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Student"/>
+<aop-project name="AA_PMO"/>
+<aop-project name="EmployeeData"/>
+<aop-project name="springsecuirity"/>
+</aop-reference-model>

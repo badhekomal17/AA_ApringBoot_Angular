@@ -1,0 +1,5 @@
+package com.devglan.dao;
+
+public class UserDaoImpl {
+
+}
